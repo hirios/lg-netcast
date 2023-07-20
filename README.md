@@ -1,4 +1,4 @@
-# lg-netcast
+# LG TV - Netcast
 
 Dois exemplos de player para a plataforma netcast 
 
